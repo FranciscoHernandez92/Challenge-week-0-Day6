@@ -1,0 +1,15 @@
+{
+  "name": "Challenge.w0-6",
+  "version": "1.0.0",
+  "description": "Learning JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ElChiquillo",
+  "license": "ISC",
+  "type": "module",
+"prettier":{
+  "singleQuote": true
+}
+}
